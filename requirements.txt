@@ -153,8 +153,8 @@ tensorboard-plugin-wit==1.8.1
 tensorflow==2.11.1
 tensorflow-cpu==2.11.1
 tensorflow-estimator==2.11.0
-tensorflow-intel==2.11.1
-tensorflow-io-gcs-filesystem==0.31.0
+tensorflow-intel
+tensorflow-io-gcs-filesystem
 termcolor==2.2.0
 terminado==0.17.1
 tinycss2==1.2.1
